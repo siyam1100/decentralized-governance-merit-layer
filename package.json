@@ -1,0 +1,8 @@
+{
+  "name": "decentralized-governance-merit-layer",
+  "version": "1.0.0",
+  "description": "Reputation and Quadratic Voting framework",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
